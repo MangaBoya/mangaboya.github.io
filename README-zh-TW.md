@@ -1,7 +1,7 @@
 # MangaBoya - 可能是你用過最好的漫畫APP
 ## 免費看全網漫畫 陸漫/日漫/韓漫/h漫
 
-### 下載地址：[點選下載](https://github.com/MangaBoya/mangaboya-nsfw/releases)
+### 下載地址：[點選下載](https://github.com/MangaBoya/mangaboya.github.io/releases)
 
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/ce14c674-ea2e-4038-aa17-ade5af4fb427" />
 
