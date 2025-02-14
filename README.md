@@ -1,5 +1,5 @@
 # MangaBoya - Best Manga App You've Ever Used!
-### [简体中文](https://github.com/MangaBoya/mangaboya.github.io/blob/main/README-zh.md) | [繁體中文](https://github.com/MangaBoya/mangaboya.github.io/blob/main/README-zh-TW.md) | [日本語](https://github.com/MangaBoya/mangaboya.github.io/blob/main/README-ja.md)
+### [简体中文](https://mangaboya.github.io/zh) | [繁體中文](https://mangaboya.github.io/zh-TW) | [日本語](https://mangaboya.github.io/ja)
  
 ### Manga & Webtoons & Comics & NSFW! 
 IMPORTANT: NSFW Content is only available in the GitHub release, not included in the App Store and Play Store versions.
