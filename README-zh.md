@@ -3,6 +3,7 @@
 
 ### [点击下载](https://github.com/MangaBoya/mangaboya.github.io/releases)
 
+若需要访问成人内容，请自行通过“仓库添加”
 
 ![image](https://github.com/user-attachments/assets/a9077cd2-e59a-425b-9bc6-27eb4fcbdf05)
 
