@@ -5,8 +5,6 @@
 
 若需要訪問成人內容，請自行透過“倉庫新增”
 
-TG群：[點選加入](https://t.me/mangaboya)
-
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/ce14c674-ea2e-4038-aa17-ade5af4fb427" />
 
 <img width="1573" alt="play_zhtw_all" src="https://github.com/user-attachments/assets/0460328a-c29b-4a45-b4a6-4edcac6e9f98" />
